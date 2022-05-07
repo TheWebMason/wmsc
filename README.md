@@ -5,3 +5,6 @@ _Based on [Polygon (previously Matic)](https://github.com/maticnetwork)_
 - [WMSC validator](https://github.com/TheWebMason/wmsc-validator);
 - [WMSC contracts](https://github.com/TheWebMason/wmsc-contracts);
 - [WMSC genesis contracts](https://github.com/TheWebMason/wmsc-genesis-contracts).
+
+## Fork manual
+- [Fork manual](fork/README.md).
