@@ -1,0 +1,2 @@
+# wmsc
+WebMason Smart Chain
